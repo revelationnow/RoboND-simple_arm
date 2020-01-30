@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/anoop/Work/udacity/robotics_sw_engineer/simple_mover/catkin_ws/build/simple_arm",
+  "command":"usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\"simple_arm\" -I/home/anoop/Work/udacity/robotics_sw_engineer/simple_mover/catkin_ws/devel/include -I/home/anoop/Work/udacity/robotics_sw_engineer/simple_mover/catkin_ws/src/simple_arm/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11 -o CMakeFiles/simple_mover.dir/src/simple_mover.cpp.o -c /home/anoop/Work/udacity/robotics_sw_engineer/simple_mover/catkin_ws/src/simple_arm/src/simple_mover.cpp",
+  "file":"simple_mover.cpp"
+}
+{
+  "directory": "/home/anoop/Work/udacity/robotics_sw_engineer/simple_mover/catkin_ws/build/simple_arm",
+  "command":"usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\"simple_arm\" -I/home/anoop/Work/udacity/robotics_sw_engineer/simple_mover/catkin_ws/devel/include -I/home/anoop/Work/udacity/robotics_sw_engineer/simple_mover/catkin_ws/src/simple_arm/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11 -o CMakeFiles/simple_mover.dir/src/arm_mover.cpp.o -c /home/anoop/Work/udacity/robotics_sw_engineer/simple_mover/catkin_ws/src/simple_arm/src/arm_mover.cpp",
+  "file":"arm_mover.cpp"
+}
+]
